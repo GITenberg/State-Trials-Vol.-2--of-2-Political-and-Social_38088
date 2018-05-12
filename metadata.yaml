@@ -1,0 +1,30 @@
+_repo: State-Trials-Vol.-2--of-2-Political-and-Social_38088
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Stephen, Harry Lushington
+    aliases:
+    - Stephen, Harry Lushington, Sir, bart.
+    - Stephen, Sir Harry Lushington
+    - Stephen, H. L. (Harry Lushington)
+    birthdate: 1860
+    deathdate: 1945
+    gutenberg_agent_id: '32737'
+    url: http://www.gutenberg.org/2009/agents/32737
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Trials -- Great Britain'
+title: State Trials, Political and Social. Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/38088
